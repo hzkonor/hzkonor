@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Conor</h1>
 <h3 align="center">A student from France</h3>
 
-- 🔭 I’m currently working on [quartz](https://github.com/hzkonor/quartz)
+I'm currently building applications in C# for a company, while learning C, Java and so on at University.
 
-- 🌱 I’m currently learning **C, Rust, Typescript**
+Apart from that, I sometimes write on [vrakonor](https://vrak.konor.fr) and I like to try new tools (try [TaskWarrior](https://taskwarrior.org/) or [Micro](https://github.com/zyedidia/micro) if you like terminal-based apps). I also love [Typst](https://typst.app), I made a [template](https://github.com/hzkonor/bubble-template) and I would like to contribute more.
 
-- 📝 I regularly write articles on [https://vrak.konor.fr](https://vrak.konor.fr)
-
-- 😶 My pronouns are *he/him*
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/659ba98eae22c125233ee1f5?variant=dark)](https://roadmap.sh)
+Have a good day ⚡ ! 
